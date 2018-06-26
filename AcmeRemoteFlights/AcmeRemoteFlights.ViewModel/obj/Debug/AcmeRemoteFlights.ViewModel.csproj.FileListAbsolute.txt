@@ -8,3 +8,8 @@ C:\Users\akanksha.gupta\Downloads\AcmeRemoteFlights\AcmeRemoteFlights.ViewModel\
 C:\Users\akanksha.gupta\Downloads\AcmeRemoteFlights\AcmeRemoteFlights.ViewModel\obj\Debug\AcmeRemoteFlights.ViewModel.csprojResolveAssemblyReference.cache
 C:\Users\akanksha.gupta\Downloads\AcmeRemoteFlights\AcmeRemoteFlights.ViewModel\obj\Debug\AcmeRemoteFlights.ViewModel.dll
 C:\Users\akanksha.gupta\Downloads\AcmeRemoteFlights\AcmeRemoteFlights.ViewModel\obj\Debug\AcmeRemoteFlights.ViewModel.pdb
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.ViewModel\bin\Debug\AcmeRemoteFlights.ViewModel.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.ViewModel\bin\Debug\AcmeRemoteFlights.ViewModel.pdb
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.ViewModel\obj\Debug\AcmeRemoteFlights.ViewModel.csprojResolveAssemblyReference.cache
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.ViewModel\obj\Debug\AcmeRemoteFlights.ViewModel.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.ViewModel\obj\Debug\AcmeRemoteFlights.ViewModel.pdb

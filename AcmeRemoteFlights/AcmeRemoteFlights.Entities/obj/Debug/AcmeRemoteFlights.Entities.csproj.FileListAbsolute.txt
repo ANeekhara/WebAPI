@@ -11,3 +11,9 @@ C:\Users\akanksha.gupta\Downloads\AcmeRemoteFlights\AcmeRemoteFlights.Entities\b
 C:\Users\akanksha.gupta\Downloads\AcmeRemoteFlights\AcmeRemoteFlights.Entities\bin\Debug\LiteDB.xml
 C:\Users\akanksha.gupta\Downloads\AcmeRemoteFlights\AcmeRemoteFlights.Entities\obj\Debug\AcmeRemoteFlights.Entities.dll
 C:\Users\akanksha.gupta\Downloads\AcmeRemoteFlights\AcmeRemoteFlights.Entities\obj\Debug\AcmeRemoteFlights.Entities.pdb
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Entities\bin\Debug\AcmeRemoteFlights.Entities.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Entities\bin\Debug\AcmeRemoteFlights.Entities.pdb
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Entities\bin\Debug\LiteDB.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Entities\bin\Debug\LiteDB.xml
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Entities\obj\Debug\AcmeRemoteFlights.Entities.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Entities\obj\Debug\AcmeRemoteFlights.Entities.pdb
