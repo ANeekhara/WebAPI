@@ -1,0 +1,12 @@
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\bin\Debug\AcmeRemoteFlights.Data.dll.config
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\bin\Debug\AcmeRemoteFlights.Data.dll
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\bin\Debug\AcmeRemoteFlights.Data.pdb
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\bin\Debug\AcmeRemoteFlights.Model.dll
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\bin\Debug\EntityFramework.dll
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\bin\Debug\AcmeRemoteFlights.Model.pdb
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\bin\Debug\EntityFramework.xml
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\obj\Debug\AcmeRemoteFlights.Data.csprojResolveAssemblyReference.cache
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\obj\Debug\AcmeRemoteFlights.Data.dll
+C:\AkDocs\AcmeRemoteFlights\AcmeRemoteFlights.Data\obj\Debug\AcmeRemoteFlights.Data.pdb
