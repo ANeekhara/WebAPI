@@ -1,0 +1,14 @@
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\AcmeRemoteFlights.Helpers.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\AcmeRemoteFlights.Helpers.pdb
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\Newtonsoft.Json.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\NLog.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\System.Net.Http.Formatting.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\System.Web.Http.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\System.Web.Http.WebHost.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\Newtonsoft.Json.xml
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\NLog.xml
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\System.Net.Http.Formatting.xml
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\System.Web.Http.xml
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\bin\Debug\System.Web.Http.WebHost.xml
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\obj\Debug\AcmeRemoteFlights.Helpers.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Helpers\obj\Debug\AcmeRemoteFlights.Helpers.pdb

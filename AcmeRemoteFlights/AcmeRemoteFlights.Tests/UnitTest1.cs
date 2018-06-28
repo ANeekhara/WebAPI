@@ -32,5 +32,4 @@ namespace AcmeRemoteFlights.Tests
             Assert.IsNotNull(actual);
         }
     }
-  
 }

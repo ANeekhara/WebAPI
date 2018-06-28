@@ -1,0 +1,7 @@
+2018-06-28 14:01:59.2390|INFO|AcmeRemoteFlights.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:58088/api/flights
+Controller : AcmeRemoteFlights.Controllers.FlightController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+

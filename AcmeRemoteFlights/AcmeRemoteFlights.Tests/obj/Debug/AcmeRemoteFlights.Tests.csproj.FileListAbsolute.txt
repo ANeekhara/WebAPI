@@ -137,3 +137,7 @@ C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Tests\
 C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Tests\obj\Debug\AcmeRemoteFlights.Tests.csprojResolveAssemblyReference.cache
 C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Tests\obj\Debug\AcmeRemoteFlights.Tests.dll
 C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Tests\obj\Debug\AcmeRemoteFlights.Tests.pdb
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Tests\bin\Debug\AcmeRemoteFlights.Helpers.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Tests\bin\Debug\NLog.dll
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Tests\bin\Debug\AcmeRemoteFlights.Helpers.pdb
+C:\AkDocs\AcmeRemoteFlights_Cognology\AcmeRemoteFlights\AcmeRemoteFlights.Tests\bin\Debug\NLog.xml

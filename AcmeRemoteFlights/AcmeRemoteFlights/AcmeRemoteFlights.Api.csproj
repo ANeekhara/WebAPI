@@ -59,6 +59,14 @@
       <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.3.7\lib\net45\NLog.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NLog.Rest, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.Rest.1.1.1\lib\net45\NLog.Rest.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Net.Http.Formatting, Version=5.2.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.6\lib\net45\System.Net.Http.Formatting.dll</HintPath>
@@ -137,6 +145,7 @@
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="NLog.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -145,6 +154,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="APILog\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
@@ -155,6 +165,10 @@
     <ProjectReference Include="..\AcmeRemoteFlights.Entities\AcmeRemoteFlights.Entities.csproj">
       <Project>{67AD0684-FFBE-4893-9BFC-480572C8E711}</Project>
       <Name>AcmeRemoteFlights.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AcmeRemoteFlights.Helpers\AcmeRemoteFlights.Helpers.csproj">
+      <Project>{D91A6975-DEDF-49E4-95DF-4B70AA656DB7}</Project>
+      <Name>AcmeRemoteFlights.Helpers</Name>
     </ProjectReference>
     <ProjectReference Include="..\AcmeRemoteFlights.ViewModel\AcmeRemoteFlights.ViewModel.csproj">
       <Project>{DBD4FB06-58B2-480F-BF79-1AFE4197916D}</Project>
